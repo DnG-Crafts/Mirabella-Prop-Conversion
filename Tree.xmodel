@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treemodel 
+AlternateNodes="false" StrandDir="Vertical" name="Tree" parm1="15" parm2="13" parm3="1" DisplayAs="Tree 360" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" StartSide="T" Dir="L" StrandNames="" NodeNames="" TreeRotation="3" TreeBottomTopRatio="6.0" TreePerspective="0.2" TreeSpiralRotations="0.0" SourceVersion="2023.18"  >
+</treemodel>

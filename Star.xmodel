@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starmodel 
+name="Star" parm1="2" parm2="5" parm3="5" DisplayAs="Star" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" LayerSizes="10" starRatio="2.618034" StarStartLocation="Bottom Ctr-CW" StrandNames="" NodeNames="" SourceVersion="2023.18"  >
+</starmodel>
