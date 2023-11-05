@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<starmodel 
-name="Star" parm1="2" parm2="5" parm3="5" DisplayAs="Star" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" LayerSizes="10" starRatio="2.618034" StarStartLocation="Bottom Ctr-CW" StrandNames="" NodeNames="" SourceVersion="2023.18"  >
-</starmodel>
+<custommodel 
+name="Star" parm1="13" parm2="12" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,,,,6,,,,,,;,,,,,,,,,,,,;,,,,,,,,,,,,;,,,,,,,,,,,,;4,,,,5,,,7,,,,8,;,,,,,,,,,,,,;,,,,3,,,9,,,,,;,,,,,,,,,,,,;,,,,,,1,,,,,,;,,,,,,,,,,,,;,,2,,,,,,,10,,,;,,,,,,,,,,,," SourceVersion="2023.19"  >
+<subModel name="DefaultRenderBuffer" layout="horizontal" type="ranges" line0=",2,,,,,,,10,," line1=",,,,,1,,,,," line2=",,,,,,,,,," line3=",,,3,,,9,,,," line4=",,,,,,,,,," line5="4,,,5,,,7,,,,8" line6=",,,,,,,,,," line7=",,,,,,,,,," line8=",,,,,,,,,," line9=",,,,6,,,,,," line10=",,,,,,,,,,">
+  <ControllerConnection/>
+</subModel>
+</custommodel>
