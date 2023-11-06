@@ -20,11 +20,11 @@ in wled set the GPIO you used, color order is RGB and led count is 195.<br>
 
 if you wish to light the star then connect (L) to the esp GND.<br>
 
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/1.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/2.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/3.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/4.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/5.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/1.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/2.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/3.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/4.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/5.jpg><br>
 
 
 ## Star modification
@@ -32,5 +32,5 @@ if you wish to light the star then connect (L) to the esp GND.<br>
 if you wish to add pixels to the star you can repurpose the (L) wire as a data line to the esp, in my case i connected it to GPIO12.<br>
 i replaced the leds in the star with 10 seed pixels.<br>
 
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/6.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/Tinsel%20Christmas%20Tree/blob/main/7.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/6.jpg><br>
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/7.jpg><br>
