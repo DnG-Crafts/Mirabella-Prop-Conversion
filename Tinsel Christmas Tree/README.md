@@ -29,7 +29,7 @@ If you wish to light the star then connect (L) to the esp GND.<br>
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/3.jpg><br>
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/4.jpg><br>
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/5.jpg><br>
-<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/8.jpg><br>
+
 
 ## Star modification
 
@@ -38,3 +38,7 @@ I replaced the leds in the star with 10 seed pixels.<br>
 
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/6.jpg><br>
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/7.jpg><br>
+
+<br>
+
+<img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Tinsel%20Christmas%20Tree/8.jpg><br>
