@@ -9,6 +9,8 @@ You use the frame and springs from the prop and 3D print a new topper in PETG us
 
 I used seed pixels with 5cm spacing so it made a total of 816 pixels spread over 2 ports with 408 pixels per port to maintain 40fps if needed.
 
+The xmodel for this tree with 816 pixels is in the repo but you can make one to match your tree in xlights using the round tree model.
+
 
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Light%20Show%20Tree/1.jpg><br>
 <img src=https://github.com/DnG-Crafts/Mirabella-Tree-Conversion/blob/main/Light%20Show%20Tree/2.jpg><br>
